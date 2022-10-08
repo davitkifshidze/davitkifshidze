@@ -13,7 +13,7 @@
 <table  style="width:100%">
     <tbody style="width:100%">
     <tr  style="width:100%">
-        <td valign="top" width="100%">
+        <td valign="top" width="33%">
             <h3 dir="auto"><a id="user-content-backend" class="anchor" aria - hidden="true" href="#backend">
                     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria -
                          hidden="true">
@@ -37,9 +37,7 @@
                             style="max-width: 100%;"></a>
             </div>
         </td>
-    </tr>
-    <tr  style="width:100%">
-        <td valign="top" width="100%">
+        <td valign="top" width="33%">
             <h3 dir="auto"><a id="user-content-frontend" class="anchor" aria - hidden="true" href="#frontend">
                     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria -
                          hidden="true">
@@ -75,9 +73,7 @@
                             style="max-width: 100%;"></a>
             </div>
         </td>
-    </tr>
-    <tr  style="width:100%">
-        <td valign="top" width="100%">
+        <td valign="top" width="33%">
             <h3 dir="auto"><a id="user-content-backend" class="anchor" aria - hidden="true" href="#learn">
                     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria -
                          hidden="true">
